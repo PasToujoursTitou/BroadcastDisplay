@@ -1,0 +1,8 @@
+name: BroadcastDisplay
+version: 1.0
+author: ToujoursTitou
+main: fr.titou.myplugin.Main
+commands:
+  broadcast:
+    description: send broadcast
+    permission: broadcast.use    
